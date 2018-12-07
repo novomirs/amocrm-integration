@@ -7,6 +7,7 @@
 // ini_set('display_startup_errors', 1);
 ```
 
+##//Авторизация в AMO по API
 ```
 $user = array(
   'USER_LOGIN'=>'..ваш логин..', 
