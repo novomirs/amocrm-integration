@@ -1,13 +1,14 @@
 # amocrm-integration
-Примеры работы  с API AmoCRM
+Примеры кода для работы с API AmoCRM
 
 ```
+// код ниже включает вывод ошибок
 // ini_set('error_reporting', E_ALL);
 // ini_set('display_errors', 1);
 // ini_set('display_startup_errors', 1);
 ```
 
-##//Авторизация в AMO по API
+## 1. Авторизация в AMO по API
 ```
 $user = array(
   'USER_LOGIN'=>'..ваш логин..', 
